@@ -23,5 +23,6 @@ El proxy fue construido en Python 3.7.
 Para ejecutar cualquiera de los dos comandos:
 ```
 python3 app.py
+```
 nohup python3 -u ./app.py > ./output.log &
 ```
