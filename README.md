@@ -1,7 +1,6 @@
 # ms-proxy
 
 Servidor Proxy en Python 3.8, basado en SOCKET, ayudando a centralizar todas las solicitudes entrantes en un solo punto, lo cual puede mejorar en cierto punto los niveles de seguridad de una aplicación. 
-```
 Al implementar o usar un proxy permite la apertura de un solo puerto, es decir, que se pueden tener a nivel de servidor muchas aplicaciones, pero solo se podrá acceder a ellas por medio del proxy.
 ```
 El objetivo de esta publicación es crear un Servidor Proxy Web con las siguientes características:
