@@ -27,4 +27,4 @@ nohup python3 -u ./app.py > ./output.log &
 ```
 
 
-Para mas detalle: [a](https://soursop-dev.blogspot.com/2020/05/creacion-de-un-servidor-web-proxy-en.html){: .special}
+Para mas detalle: [PRESIONE AQUÍ](https://soursop-dev.blogspot.com/2020/05/creacion-de-un-servidor-web-proxy-en.html)
